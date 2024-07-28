@@ -24,6 +24,8 @@ Then copy the directory `.mitmproxy` to your home directory.
 $> cp -R mitmproxy-config/.mitmproxy ~/
 ```
 
+1a. Set network service order in Network > Set Service Order > Bump WiFi to top.
+
 2. Start mitmproxy.
 
 ```sh
